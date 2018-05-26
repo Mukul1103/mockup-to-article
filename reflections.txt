@@ -6,6 +6,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
+
 Your response goes here!
 
 -I've learned new elements such as strikethrough, hortizonal ruler, subscript and did the research work to apply those.
